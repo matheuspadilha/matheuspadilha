@@ -1,19 +1,21 @@
 <h1>
   Hi there 👋 I'm Matheus Padilha 👨‍💻
 </h1>
+  
+<strong>
+  :computer: I'm Fullstack Developer!
 
-:computer: I'm Fullstack Developer!
-
-:house_with_garden: I’m from Brazil.
-
+  :house_with_garden: I’m from Brazil.
+</strong>
+  
 ---
 
  <h2>
   :construction: ...under construction!
  </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspadilha&layout=compact&theme=github_dark)](https://github.com/matheuspadilha/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspadilha&layout=compact&theme=github_dark)](https://github.com/matheuspadilha/github-readme-stats)
 
 [![matheuspadilha GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuspadilha&show_icons=true&theme=github_dark)](https://github.com/matheuspadilha/github-readme-stats)
 
