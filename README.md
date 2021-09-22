@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Matheus Padilha 👨‍💻
+# Hi there 🖖 I'm Matheus Padilha 👨‍💻
 
 
 ## 🚧 ...under construction! 👷‍♂️
@@ -54,15 +54,14 @@
 [![matheuspadilha GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuspadilha&show_icons=true&theme=github_dark)](https://github.com/matheuspadilha/github-readme-stats)
 
 
-<h3>
- 📲 Connect with me
-</h3>
+### 📫 Connect with me
+  
 <a href="https://www.linkedin.com/in/matheuspadilha">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 
-####  Thanks for visiting! 😊
+#### Thanks for visiting! 😊
 <!--
 **matheuspadilha/matheuspadilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
