@@ -60,10 +60,10 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+##### ✨ *"Learning is the only thing the mind never exhausts, never fears, and never regrets." - Leonardo da Vinci* ✨
 
 #### Thanks for visiting! 😊
 
-##### ✨ *"Learning is the only thing the mind never exhausts, never fears, and never regrets." - Leonardo da Vinci* ✨
 <!--
 **matheuspadilha/matheuspadilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
