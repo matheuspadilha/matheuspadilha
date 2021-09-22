@@ -62,6 +62,8 @@
 
 
 #### Thanks for visiting! 😊
+
+##### ✨ *"Learning is the only thing the mind never exhausts, never fears, and never regrets." - Leonardo da Vinci* ✨
 <!--
 **matheuspadilha/matheuspadilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
