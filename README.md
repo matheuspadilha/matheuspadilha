@@ -6,7 +6,7 @@
 
 **💻 I'm Fullstack Developer!**  
 **🏡 I’m from Brazil.**  
-**☕ I'm love coffee.**  
+**☕ I love coffee.**  
 **👨‍🎓 I study computer science.**
 
 ### 🤖 Technologies and Tools 🧰
