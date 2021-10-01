@@ -4,7 +4,7 @@
 ## 🚧 ...under construction! 👷‍♂️
 
 
-**💻 I'm Fullstack Developer!**  
+**💻 I'm Web Developer!**  
 **🏡 I’m from Brazil.**  
 **☕ I love coffee.**  
 **👨‍🎓 I study computer science.**
