@@ -1,7 +1,7 @@
-# Hi there 🖖 I'm Matheus Padilha 👨‍💻
-
-
 ## 🚧 ...under construction! 👷‍♂️
+---
+
+# Hi there 🖖 I'm Matheus Padilha 👨‍💻
 
 
 **💻 I'm Web Developer!**  
