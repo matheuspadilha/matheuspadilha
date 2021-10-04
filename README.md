@@ -5,7 +5,7 @@
 **🏡 I’m from Brazil.**  
 **☕ I love coffee.**
 
-<img src="https://github.com/matheuspadilha/matheuspadilha/blob/main/assets/coder.gif" min-width="400px" max-width="400px" width="500px" align="right" alt="logo">
+<img src="https://github.com/matheuspadilha/matheuspadilha/blob/main/assets/coder.gif" min-width="400px" max-width="400px" width="450px" align="right" alt="logo">
 
 ### 🤖 Technologies and Tools 🧰
 
@@ -61,9 +61,6 @@
   ![WebStorm](https://img.shields.io/badge/WebStorm-333333?style=flat&logo=WebStorm&logoColor=74CDD1)
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-333333?style=flat&logo=visual%20studio%20code&logoColor=0769AD)
 
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
