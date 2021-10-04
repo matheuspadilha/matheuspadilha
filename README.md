@@ -5,7 +5,7 @@
 **🏡 I’m from Brazil.**  
 **☕ I love coffee.**
 
-<img src="https://github.com/matheuspadilha/matheuspadilha/blob/main/gifs/coder.gif" min-width="400px" max-width="400px" width="500px" align="right" alt="logo">
+<img src="https://github.com/matheuspadilha/matheuspadilha/blob/main/assets/coder.gif" min-width="400px" max-width="400px" width="500px" align="right" alt="logo">
 
 ### 🤖 Technologies and Tools 🧰
 
