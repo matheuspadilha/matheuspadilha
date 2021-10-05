@@ -50,7 +50,7 @@
   ![Swagger](https://img.shields.io/badge/Swagger-333333?style=flat&logo=Swagger&logoColor=85EA2D)
   ![Maven](https://img.shields.io/badge/Apache%20Maven-333333?style=flat&logo=apachemaven&logoColor=C71A36)
   ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=Docker)
-  ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=MySQL)
+  ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=MySQL&logoColor=74CDD1)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=PostgreSQL)
   ![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=Postman&logoColor=FF6C37)
   ![Insomnia](https://img.shields.io/badge/Insomnia-333333?style=flat&logo=Insomnia&logoColor=5849be)
