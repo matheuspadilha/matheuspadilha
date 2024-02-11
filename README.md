@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/matheuspadilha/matheuspadilha/blob/main/assets/coder.gif" min-width="400px" max-width="400px" width="450px" align="right" alt="coder">
   
   <p align="left">  
-    <strong>💻 I'm Software Developer.</strong> <br/>
+    <strong>💻 I'm Software Engineering.</strong> <br/>
     <strong>🏡 I’m from Brazil.</strong> <br/>
     <strong>👨‍🎓 I study software engineering.</strong> <br/>
     <strong>☕ I love coffee.</strong>
